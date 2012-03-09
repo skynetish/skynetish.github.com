@@ -1,1 +1,1 @@
-Redirect to organisation page.
+This repository simply redirects skynetish.github.com to github.com/skynetish.
